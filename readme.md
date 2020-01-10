@@ -50,6 +50,9 @@ Dec. '19-Jan '20
 
 ![data leakages image](fig/data_leakage_02.PNG | width=400)
 
+
+![data leakages image](fig/data_leakage_02.PNG){width="400px"}
+
 # Week 3
  
 [Course notes here](week_3_notes.ipynb)  
