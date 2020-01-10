@@ -2,6 +2,8 @@
 
 My notes from the Coursera course, hosted [here](https://www.coursera.org/learn/competitive-data-science).  
 
+I'm only including my notebooks here for my reference. Supporting data files are available on the course.  
+
 Patricia Schuster  
 Dec. '19-Jan '20  
 
@@ -30,8 +32,21 @@ Dec. '19-Jan '20
 
 # Week 2
 
-[Course notes here](week_2_notes.ipynb)
-[Assignment here](week_2_assignment_data_leakages/Data+Leakages.ipynb)
+[Course notes here](week_2_notes.ipynb)  
+
+* Exploratory data analysis  
+* Dataset cleaning, data leakages  
+* Validation and overfitting  
+* Data leakages  
+
+[Assignment here](week_2_assignment_data_leakages/Data%2Bleakages.ipynb)  
+
+* Exploit a severe data leakage in a real competition  
+* Analyze the `(FirstId,SecondId)` coordinates, which are related to the target  
+* Use a leaderboard probing technique to determine frequency of target values  
+* Write a method for extracting coordinates along the diagonal lines  
+* Perfect the method with a few tedious techniques  
+* It turns out this is not the method that the instructors expected us to do, so I must have used the alternate method.  
 
 # Week 3
  
