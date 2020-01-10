@@ -48,6 +48,8 @@ Dec. '19-Jan '20
 * Perfect the method with a few tedious techniques  
 * It turns out this is not the method that the instructors expected us to do, so I must have used the alternate method.  
 
+![data leakages image](fig/data_leakage_02.PNG)
+
 # Week 3
  
 [Course notes here](week_3_notes.ipynb)
