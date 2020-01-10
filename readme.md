@@ -52,5 +52,26 @@ Dec. '19-Jan '20
 
 # Week 3
  
-[Course notes here](week_3_notes.ipynb)
+[Course notes here](week_3_notes.ipynb)  
+
+* Metrics optimization  
+    * Regression metrics: MSE, RMSE, MAE  
+    * Classification metrics: accuracy, logloss, AUC, Cohen's Kappa  
+* Target encoding / likelihood encoding  
+    * Mean encoding  
+    * Frequency encoding  
+    * Likelihood, weights, counts, diff  
+* Regularization  
+    * Cross-validation loop inside training data  
+    * Smoothing  
+    * Adding random noise  
+    * Sorting and calculating expanding mean  
+
 [Assignment here](week_3_assignment_mean_encodings/Programming_assignment_week_3.ipynb)
+
+* Encode `item_id` in four different ways:  
+    * `KFold` scheme  
+    * Leave-one-out scheme  
+    * Smoothing scheme  
+    * Expanding mean scheme  
+* Calculate the correlation coefficient for each result to the `target`, submit to grader  
